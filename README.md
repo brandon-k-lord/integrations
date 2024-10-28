@@ -21,15 +21,15 @@ The competitive landscape in product development requires the skillset to identi
 **Summary**:\
 Section briefly discusses integrations initiatives. Discussion points focus on integration experience.
 
-| Initiatives                                                   | Description                                                                                                                                      |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [AI Assistance](#ai-assistance)                               | Artificial Intelligence assistance for producing financial narratives.                                                                           |
-| [Authentication Software](#authentication-software)           | Authentication and authorization for user role definition and self-sign-up.                                                                      |
-| [Banking Core](#banking-core)                                 | Back-end system connecting multiple branches of a financial institution for account opening, deposists, checking, savings, loan processing, etc. |
-| [Business Process Modelors](#banking-core)                    | Back-end system connecting multiple branches of a financial institution.                                                                         |
-| [Document Compliance Solution](#document-compliance-solution) | Compliance engine for generating loan documents.                                                                                                 |
-| [Financial Statement OCR](#financial-statement-ocr)           | Extracting data from financial statements, automating data entry.                                                                                |
-| [Industry Market Research](#industry-market-research)         | Statistical data for regulatory compliant industry analyses to identify external factors in the underwriting process.                            |
+| Initiatives                                                   | Description                                                                                                                                     |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [AI Assistance](#ai-assistance)                               | Artificial Intelligence assistance for producing financial narratives.                                                                          |
+| [Authentication Software](#authentication-software)           | Authentication and authorization for user role definition and self-sign-up.                                                                     |
+| [Banking Core](#banking-core)                                 | Back-end system connecting multiple branches of a financial institution for account opening, deposits, checking, savings, loan processing, etc. |
+| [Business Process Modelors](#banking-core)                    | Workflow and decision automation software to create customizable workflows.                                                                     |
+| [Document Compliance Solution](#document-compliance-solution) | Compliance engine for generating loan documents.                                                                                                |
+| [Financial Statement OCR](#financial-statement-ocr)           | Extracting data from financial statements, automating data entry.                                                                               |
+| [Industry Market Research](#industry-market-research)         | Statistical data for regulatory compliant industry analyses to identify external factors in the underwriting process.                           |
 
 ### AI Assistance
 
