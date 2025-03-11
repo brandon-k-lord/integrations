@@ -106,7 +106,7 @@ The development of a custom connector was pursued. A third-party connector did n
 
 This was a great experience to drive an initiative of such magnitude. Core systems are extremely large systems that come with books of API documentation. I effectively documented API flows in layers for both systems (internal and external) that was essential to identifying requirements. This integration was primarily a backend project and consisted of few design requirements.
 
-It was projected to increase output 10-15%. Most financial instituions do not have a dedicated role for this function. It was projected that business units could focus on other tasks with the decrease in time spent on this task.
+It was projected to increase output 10-15%. Most financial Institutions do not have a dedicated role for this function. It was projected that business units could focus on other tasks with the decrease in time spent on this task.
 
 I was repurposed during the development phase but played an essential role in the early stages that required months of planning and designing.
 
